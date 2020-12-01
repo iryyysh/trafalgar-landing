@@ -550,7 +550,7 @@ body {
 }
 
 .footer__list {
-  margin-left: 140px;
+  margin-left: 120px;
 }
 
 .footer__logo {
@@ -560,6 +560,10 @@ body {
 .footer__symbol {
   background-color: white;
   color: #458FF6;
+}
+
+.footer__info {
+  max-width: 390px;
 }
 
 .footer__text {

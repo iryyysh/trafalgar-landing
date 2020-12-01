@@ -550,10 +550,6 @@ body {
     overflow: hidden;
 }
 
-.footer__info {
-    
-}
-
 .footer__element {
     position: absolute;
     top: -70px;
@@ -568,7 +564,7 @@ body {
 }
 
 .footer__list {
-    margin-left: 140px;
+    margin-left: 120px;
 }
 
 .footer__logo {
@@ -580,9 +576,14 @@ body {
     color: $bc;
 }
 
+.footer__info {
+    max-width: 390px;
+}
+
 .footer__text {
     margin-top: 20px;
 
+    
     color: white;
 }
 
