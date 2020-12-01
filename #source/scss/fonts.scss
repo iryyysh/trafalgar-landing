@@ -1,24 +1,44 @@
 @font-face {
 
     font-family: 'Mulish';
-    
-    src: url('C:\Users\Irina\Desktop\trafangar\fonts\Mulish-Regular.ttf') format('truetype');
-    
-    font-weight: normal;
-    
+
+    src: url('../fonts/Mulish-Light.eot');
+        
+    src: url('../fonts/Mulish-Light.eot') format('eot'),
+        
+    url('../fonts/Mulish-Light.woff') format('woff'),
+        
+    url('../fonts/Mulish-Light.ttf') format('truetype'),
+        
+    url('../fonts/Mulish-Light.svg') format('svg');
+        
+    font-weight: 100;
+        
     font-style: normal;
-    
+        
     }
-/*
+
+
+
 @font-face {
 
     font-family: 'Mulish';
-    
-    src: url('C:\Users\Irina\Desktop\trafangar\fonts\Mulish-Bold.ttf') format('truetype');
-    
-    font-weight: bold;
-    
-    font-style: normal;
-    
-    } */
 
+    src: url('../fonts/Mulish-regular.eot');
+        
+    src: url('../fonts/Mulish-Regular.eot') format('eot'),
+        
+    url('../fonts/Mulish-regular.woff') format('woff'),
+        
+    url('../fonts/WebFont.ttf') format('truetype'),
+        
+    url('../fonts/Mulish-regular.svg') format('svg');
+        
+    font-weight: normal;
+        
+    font-style: normal;
+        
+    }
+
+
+    
